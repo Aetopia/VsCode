@@ -26,9 +26,17 @@ sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.m
       ```
  
  ```
- AUR package for Arch Linux
+ Arch Linux
  ```
-      [Aur Arch wiki](https://wiki.archlinux.org/title/Arch_User_Repository#Build_and_install_the_package)
+ -  Open the Terminal & Type the following commands.
+ -  sudo pacman -Sy
+ -  sudo pacman -S git
+ -  cd ~/Downloads.
+ -  git clone https://AUR.archlinux.org/visual-studio-code-bin.git
+ -  cd visual-studio-code-bin/
+ -  makepkg -s
+ -  sudo pacman -U visual-studio-code-bin-*.pkg.tar.xz
+
 
 
   
