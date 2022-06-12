@@ -22,8 +22,8 @@ mv <source> <dest> to move
       **sudo nano /usr/share/applications/code.desktop** 
   
   and paste tis:
-   ***
-      [Desktop Entry]
+  
+   ***[Desktop Entry]
 Name=Visual Studio Code
 Comment=Code Editing. Redefined.
 GenericName=Text Editor
