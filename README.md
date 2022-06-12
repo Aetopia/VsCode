@@ -41,7 +41,7 @@ Exec=/opt/VSCode-linux-x64/code --new-window %F
 Icon=/opt/VSCode-linux-x64/resources/app/resources/linux/code.png```
  
   
-```Save it and exit````
+```Save it and exit```
   
  *Visual Studio Code* Should be Installed. 
 
