@@ -52,7 +52,6 @@ Icon=/opt/VSCode-linux-x64/resources/app/resources/linux/code.png
 *Visual Studio Code* *Should be Installed*
   
  
- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="spongly" data-color="#BD5FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script> 
 
 
 
