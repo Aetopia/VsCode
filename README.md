@@ -16,9 +16,9 @@ mv <source> <dest> to move
   
 ```Fourth```
   
-open the *Terminal* _Ctrl + Alt + T_ 
+Open the *Terminal* _Ctrl + Alt + T_ 
   
- paste this:
+ **paste** this:
       sudo nano /usr/share/applications/code.desktop 
   
   and pase this:
