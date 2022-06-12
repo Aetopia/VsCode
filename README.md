@@ -23,7 +23,7 @@ mv <source> <dest> to move
   
   and paste tis:
   
-   ***[Desktop Entry]
+   ```[Desktop Entry]
 Name=Visual Studio Code
 Comment=Code Editing. Redefined.
 GenericName=Text Editor
@@ -40,7 +40,8 @@ Keywords=vscode;
 [Desktop Action new-empty-window]
 Name=New Empty Window
 Exec=/opt/VSCode-linux-x64/code --new-window %F
-Icon=/opt/VSCode-linux-x64/resources/app/resources/linux/code.png***
+Icon=/opt/VSCode-linux-x64/resources/app/resources/linux/code.png
+  ```
   
  
   
