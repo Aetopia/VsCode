@@ -15,6 +15,7 @@ _cp <source> <dest> to copy (copy folder require -r flag so cp -r <source> <dest
 mv <source> <dest> to move
   
 ```Fourth```
+  
 open the *Terminal* _Ctrl + Alt + T_ 
   
  paste this:
