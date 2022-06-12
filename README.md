@@ -11,13 +11,13 @@ Extract it
 ```Third```
 
 Move the folder to /opt (with root permission) 
- - _cp <source> <dest> to copy (copy folder require -r flag so cp -r <source> <dest> for folders)
-mv <source> <dest> to move_
+_cp <source> <dest> to copy (copy folder require -r flag so cp -r <source> <dest> for folders)
+mv <source> <dest> to move
   
 ```Fourth```
 open the *Terminal* _Ctrl + Alt + T_ 
   
-  paste this:
+ paste this:
       sudo nano /usr/share/applications/code.desktop 
   
   and pase this:
