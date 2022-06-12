@@ -18,8 +18,8 @@ mv <source> <dest> to move
   
 **Open the *Terminal* _Ctrl + Alt + T_** 
   
- **paste** this:
-      sudo nano /usr/share/applications/code.desktop 
+ paste this:
+      **sudo nano /usr/share/applications/code.desktop** 
   
   and pase this:
 ```[Desktop Entry]
