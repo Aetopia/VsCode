@@ -2,11 +2,11 @@
 
 ```First```
 
-Download the file - https://code.visualstudio.com/#alt-downloads
+**Download the file** - https://code.visualstudio.com/#alt-downloads
 
 ```Secind```
 
-Extract it
+**Extract it**
 
 ```Third```
 
@@ -16,7 +16,7 @@ mv <source> <dest> to move
   
 ```Fourth```
   
-Open the *Terminal* _Ctrl + Alt + T_ 
+**Open the *Terminal* _Ctrl + Alt + T_** 
   
  **paste** this:
       sudo nano /usr/share/applications/code.desktop 
