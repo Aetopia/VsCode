@@ -24,6 +24,11 @@ sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.m
       ```
     ↳ sudo dnf install code
       ```
+ 
+ ```
+ AUR package for Arch Linux
+ ```
+ [Aur Arch wiki](https://wiki.archlinux.org/title/Arch_User_Repository#Build_and_install_the_package)
 
 
   
